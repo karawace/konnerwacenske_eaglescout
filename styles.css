@@ -10,7 +10,7 @@ body
     flex-wrap: wrap;
 }
 
-.picture
+.pic
 {
     width: 20%;
     padding: 10px;
@@ -21,7 +21,7 @@ body
     box-shadow: 5px 8px white;
 }
 
-.picture img
+.pic img
 {
     width: 200px;
     height: 200px;
@@ -44,7 +44,7 @@ a
     color:white;
 }
 
-.picture a:hover
+.pic a:hover
 {
     color: cyan;
 }
