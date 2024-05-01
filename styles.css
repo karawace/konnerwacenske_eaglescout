@@ -41,10 +41,10 @@ h1
 a
 {
     text-decoration:none;
-    color:white;
+    color: white;
 }
 
-.assignment a:hover
+.eagle_pictures a:hover
 {
     color: red;
 }
