@@ -4,13 +4,13 @@ body
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.eagle_pictures
+.picture
 {
     display: flex;
     flex-wrap: wrap;
 }
 
-.eagle_pictures
+.picture
 {
     width: 20%;
     padding: 10px;
@@ -21,7 +21,7 @@ body
     box-shadow: 5px 8px white;
 }
 
-.eagle_pictures img
+.picture img
 {
     width: 200px;
     height: 200px;
@@ -44,7 +44,7 @@ a
     color: white;
 }
 
-.eagle_pictures a:hover
+.picture a:hover
 {
     color: red;
 }
