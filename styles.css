@@ -10,7 +10,7 @@ body
     flex-wrap: wrap;
 }
 
-.assignment
+.picture
 {
     width: 20%;
     padding: 10px;
@@ -21,7 +21,7 @@ body
     box-shadow: 5px 8px white;
 }
 
-.assignment img
+.picture img
 {
     width: 200px;
     height: 200px;
@@ -44,7 +44,7 @@ a
     color:white;
 }
 
-.assignment a:hover
+.picture a:hover
 {
     color: cyan;
 }
