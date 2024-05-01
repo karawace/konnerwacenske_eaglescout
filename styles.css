@@ -1,6 +1,6 @@
 body
 {
-    background:rgb(240, 240, 107);
+    background: blue;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -34,7 +34,7 @@ body
 
 h1
 {
-    color: cyan;
+    color: white;
     text-align: center;
 }
 
@@ -46,5 +46,5 @@ a
 
 .assignment a:hover
 {
-    color: cyan;
+    color: white;
 }
