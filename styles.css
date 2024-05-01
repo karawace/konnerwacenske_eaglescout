@@ -4,13 +4,13 @@ body
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.assignments
+.eagle_pictures
 {
     display: flex;
     flex-wrap: wrap;
 }
 
-.assignment
+.eagle_scout_project
 {
     width: 20%;
     padding: 10px;
@@ -21,7 +21,7 @@ body
     box-shadow: 5px 8px white;
 }
 
-.assignment img
+.eagle_scout_project img
 {
     width: 200px;
     height: 200px;
